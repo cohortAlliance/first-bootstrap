@@ -1,0 +1,43 @@
+/*main color = "#6889af" */
+/*secondary color = "#333333" */
+
+
+html, body {
+	width: 100%;
+	height: 100%;
+	margin:0px;
+	padding:0px;
+}
+
+section {
+	text-align: center;
+	color: white;
+	background-color:grey;
+}
+
+.nav {
+	padding:10px 0px 0px 15px !important;
+	background-color: #333333;
+}
+
+.jumbotron {
+	margin:40px 40px;
+	padding:20px 20px;
+	border-radius: 8px;
+}
+
+h2 {
+	background-color: #333333;
+	border: 2px solid #6889af;
+}
+
+form {
+	margin:30px 0px 20px 0px;
+	border: 2px solid #6889af;
+	padding:20px;
+}
+
+.btn-default:hover {
+	background-color: #6889af;
+}
+
